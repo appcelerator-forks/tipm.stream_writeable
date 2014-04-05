@@ -1,0 +1,18 @@
+{
+  "name": "stream_writeable",
+  "repository": "tipm/stream_writeable",
+  "description": "Writable node style streams",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "tipm/buffer": "~0.1.0",
+    "tipm/util": "~0.1.1",
+    "tipm/emitter": "^1.1.2"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
