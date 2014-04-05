@@ -1,5 +1,4 @@
-
-# stream_writeable-app
+# stream_writeable
 
   Writable node style streams
 
@@ -17,7 +16,7 @@
 
   The MIT License (MIT)
 
-  Copyright (c) {year} <copyright holders>
+  Copyright (c) 2014 Christian Sullivan <cs@bodhi5.com>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
